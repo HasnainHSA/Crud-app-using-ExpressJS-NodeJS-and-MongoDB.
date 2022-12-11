@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(185, 62, 62);
+}
+
+.modalspacx{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
